@@ -5,3 +5,5 @@ In this project, we helped the ecommerce company understand the impact of its di
 Using regression discontinuity design (RDD) we compared the customers right above and below the 20-month tenure cutoff. These customers apart from differing in their tenure are similar in other regards so any change in profit can be attributed to this sudden increase in discounts. We use regression to estimate the size of that impact.
 
 We learn that the average effect of discount on profits around the 20-month tenure is negative. The company is losing money by giving more discounts to higher tenure customers.
+
+This project is a part of the [Causal Inference and Personalization](https://www.manning.com/liveprojectseries/causal-inference-ser) series on Manning.

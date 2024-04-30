@@ -17,3 +17,5 @@ Learnt in this project:
 Next up:
 * Natural experiments - regression discontinuity design, diff-in-diff
 * How to move from estimating the average treatment effect to estimating the individual treatment effect in order to personalize the treatment
+
+This project is a part of the [Causal Inference and Personalization](https://www.manning.com/liveprojectseries/causal-inference-ser) series on Manning.
